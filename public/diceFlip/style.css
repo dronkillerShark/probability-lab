@@ -1,0 +1,11 @@
+.dice{
+    position: relative;
+    top: 100px;
+    left: 625px;
+}
+
+.flip{
+    position: relative;
+    top: 300px;
+    left: 500px
+}
